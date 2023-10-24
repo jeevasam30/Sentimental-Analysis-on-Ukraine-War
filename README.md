@@ -1,8 +1,6 @@
 # Sentimental-Analysis-on-Ukraine-War
 Scrapped out twitter and Youtube comments and have done sentimental analysis to get positive negative and neutral reactionss
 
-# Sentimental Analysis on Ukraine War
-
 This repository contains code for performing sentimental analysis on comments related to the Ukraine War from YouTube and Twitter.
 
 ## YouTube Scraping
