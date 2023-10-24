@@ -35,16 +35,7 @@ pip install tweepy pandas textblob wordcloud
 1. Obtain Twitter API credentials and replace them in `twitter_sentiment.py`.
 2. Run `twitter_sentiment.py` to scrape tweets and perform sentiment analysis.
 
-## Sentiment Analysis
 
-### Requirements
-- Python
-- Libraries: pandas, seaborn, nltk, re, string
-
-### Installation
-```bash
-pip install pandas seaborn nltk
-```
 
 ### Usage
 1. Run `sentiment_analysis.py` to perform sentiment analysis on the collected data.
